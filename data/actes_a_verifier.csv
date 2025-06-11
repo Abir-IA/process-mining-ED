@@ -1,0 +1,242 @@
+﻿case_id,activity,start_timestamp,predicted_category,similarity_score
+569611249,prise de la température,2023-01-01 11:03:00,fecal,0.3458107
+569611249,mesure ponctuelle spo2,2023-01-01 11:03:00,blood sampling,0.32458597
+569611249,crp capillaire resultat45,2023-01-01 12:13:00,blood sampling,0.51354015
+569611249,pose de patch emla,2023-01-01 12:28:00,drug dispensation,0.2764427
+569611259,désinfection plaie,2023-01-01 10:27:00,cleaning,0.50680727
+569611259,aide à la suture,2023-01-01 11:00:00,suture,0.4944915
+569611259,pose xylocaine,2023-01-01 11:00:00,drug dispensation,0.37196094
+569611259,prise en charge en contexte traumatique yyyy011,2023-01-01 11:18:00,fecal,0.38728267
+569611271,pansement moyen,2023-01-01 10:17:00,tdr,0.3679551
+569611278,prise de la température,2023-01-01 09:53:00,fecal,0.3458107
+569611278,mesure ponctuelle spo2,2023-01-01 09:53:00,blood sampling,0.32458597
+569611278,traitement par voie inhalée,2023-01-01 10:06:00,inhalation,0.4391762
+569611033,bandelette urinaire bu,2023-01-02 00:41:00,catherization,0.35579583
+569611033,prélèvement urinaire,2023-01-02 00:41:00,catherization,0.5970769
+569611033,prise de la température,2023-01-02 00:41:00,fecal,0.3458107
+569611288,prise de la température,2023-01-01 09:20:00,fecal,0.3458107
+569611288,mesure ponctuelle spo2,2023-01-01 09:20:00,blood sampling,0.32458597
+569611288,bandelette urinaire bu,2023-01-01 09:20:00,catherization,0.35579583
+569611288,crp capillaire resultat27,2023-01-01 09:57:00,blood sampling,0.48713434
+569611288,aspiration rhinopharyngé,2023-01-01 10:17:00,cleaning,0.48942143
+569611288,résultats des tdr,2023-01-01 10:17:00,fecal,0.35106504
+569611289,prise de la température,2023-01-01 09:11:00,fecal,0.3458107
+569611027,prise de la température,2023-01-02 00:23:00,fecal,0.3458107
+569611027,surveillance scope  spo2  2 heures,2023-01-02 00:23:00,tdr,0.25760394
+569611027,résultats des tdr,2023-01-02 00:46:00,fecal,0.35106504
+569611027,dispensation de médicament po,2023-01-02 00:46:00,fecal,0.33820152
+569611030,désinfection plaie,2023-01-02 00:00:00,cleaning,0.50680727
+569611030,pose xylocaine,2023-01-02 00:00:00,drug dispensation,0.37196094
+569611030,aide à la suture,2023-01-02 00:43:00,suture,0.4944915
+569611030,inhalation de meopa pour soins médicaux,2023-01-02 00:43:00,inhalation,0.6380447
+569611030,prise en charge en contexte traumatique yyyy011,2023-01-02 09:05:00,fecal,0.38728267
+569611030,suture de plaie superficielle de la peau du visage  3 cm,2023-01-02 09:05:00,reduction,0.38681817
+569611302,dispensation de médicament po,2023-01-01 06:21:00,fecal,0.33820152
+569611302,réalisation dun aérosol,2023-01-01 06:21:00,inhalation,0.56477773
+569611303,prise de la température,2023-01-01 06:07:00,fecal,0.3458107
+569611303,mesure ponctuelle spo2,2023-01-01 06:07:00,blood sampling,0.32458597
+569611303,dispensation de médicament po,2023-01-01 06:07:00,fecal,0.33820152
+569611303,bandelette urinaire bu,2023-01-01 06:11:00,catherization,0.35579583
+569611303,traitement par voie inhalée 01012023 091901012023 1004préparation des repas,2023-01-01 09:19:00,reduction,0.328995
+569611304,aspiration rhinopharyngé,2023-01-01 07:28:00,cleaning,0.48942143
+569611304,résultats des tdr,2023-01-01 08:47:00,fecal,0.35106504
+569611304,traitement par voie inhalée,2023-01-01 08:47:00,inhalation,0.4391762
+569611305,prise de la température,2023-01-01 05:23:00,fecal,0.3458107
+569611305,mesure ponctuelle spo2,2023-01-01 05:23:00,blood sampling,0.32458597
+569611305,désobstruction rhinopharyngée drp,2023-01-01 05:23:00,cleaning,0.5392064
+569611305,résultats des tdr,2023-01-01 06:00:00,fecal,0.35106504
+569611305,dispensation de médicament po,2023-01-01 10:32:00,fecal,0.33820152
+569611307,prise de la température,2023-01-01 04:43:00,fecal,0.3458107
+569611307,mesure ponctuelle spo2,2023-01-01 04:43:00,blood sampling,0.32458597
+569611307,réhydratation po au sro,2023-01-01 05:44:00,drug dispensation,0.4339658
+569611307,dispensation de médicament po,2023-01-01 05:54:00,fecal,0.33820152
+569611042,désinfection plaie 01012023 221101012023 2217prise en charge en contexte traumatique yyyy011,2023-01-01 23:30:00,cleaning,0.3822829
+569611042,inhalation de meopa pour soins médicaux,2023-01-01 23:30:00,inhalation,0.6380447
+569611042,pansement moyen,2023-01-01 23:30:00,tdr,0.3679551
+569611042,prélèvement veineux,2023-01-02 00:00:00,fecal,0.45152718
+569611042,aspiration rhinopharyngé,2023-01-02 00:00:00,cleaning,0.48942143
+569611042,perfusion  1 heure,2023-01-02 00:00:00,drug dispensation,0.53510463
+569611044,dispensation de médicament po,2023-01-01 22:58:00,fecal,0.33820152
+569611044,surveillance scope  spo2  2 heures,2023-01-01 22:58:00,tdr,0.25760394
+569611044,prise de la température,2023-01-01 22:58:00,fecal,0.3458107
+569611044,glycémie capillaire,2023-01-01 22:58:00,blood sampling,0.4152123
+569611075,prise de la température,2023-01-01 20:16:00,fecal,0.3458107
+569611075,aspiration rhinopharyngé,2023-01-01 20:16:00,cleaning,0.48942143
+569611075,crp capillaire resultat16,2023-01-01 21:02:00,blood sampling,0.49940893
+569611075,résultats des tdr,2023-01-01 21:36:00,fecal,0.35106504
+569611316,prise de la température,2023-01-01 03:42:00,fecal,0.3458107
+569611316,bandelette urinaire bu,2023-01-01 03:42:00,catherization,0.35579583
+569611052,dispensation de médicament po,2023-01-01 22:16:00,fecal,0.33820152
+569611052,prise de la température,2023-01-01 22:16:00,fecal,0.3458107
+569611052,surveillance scope  spo2  2 heures,2023-01-01 22:16:00,tdr,0.25760394
+569611053,prise en charge en contexte traumatique yyyy011,2023-01-01 22:00:00,fecal,0.38728267
+569611058,prise de la température,2023-01-01 21:38:00,fecal,0.3458107
+569611058,mesure ponctuelle spo2,2023-01-01 21:38:00,blood sampling,0.32458597
+569611330,prise de la température,2023-01-01 01:36:00,fecal,0.3458107
+569611330,traitement par voie inhalée,2023-01-01 02:15:00,inhalation,0.4391762
+569611330,education parentale,2023-01-01 02:16:00,secration,0.38024545
+569611047,désinfection plaie,2023-01-01 21:46:00,cleaning,0.50680727
+569611047,crp capillaire resultat91,2023-01-01 22:24:00,blood sampling,0.5283452
+569611047,pose de vvp,2023-01-01 23:20:00,drug dispensation,0.3250607
+569611047,prélèvement veineux,2023-01-01 23:20:00,fecal,0.45152718
+569611047,aspiration rhinopharyngé,2023-01-01 23:20:00,cleaning,0.48942143
+569611047,résultats des tdr,2023-01-01 23:20:00,fecal,0.35106504
+569611333,dispensation de médicament po,2023-01-01 00:44:00,fecal,0.33820152
+569611333,refroidissement externe pour brlure,2023-01-01 00:44:00,fecal,0.39135394
+569611333,inhalation de meopa pour soins médicaux,2023-01-01 01:26:00,inhalation,0.6380447
+569611333,pansement initial de brlure sur 1 main,2023-01-01 01:26:00,fecal,0.44682533
+569611333,prise en charge en contexte traumatique yyyy011,2023-01-01 09:50:00,fecal,0.38728267
+569611334,prise de la température,2023-01-01 00:42:00,fecal,0.3458107
+569611334,aspiration rhinopharyngé,2023-01-01 00:42:00,cleaning,0.48942143
+569611334,résultats des tdr,2023-01-01 01:03:00,fecal,0.35106504
+569611334,désobstruction rhinopharyngée drp,2023-01-01 02:14:00,cleaning,0.5392064
+569611334,préparation des biberons,2023-01-01 02:14:00,fecal,0.30873775
+569611336,prise de la température,2023-01-01 00:40:00,fecal,0.3458107
+569611336,mesure ponctuelle spo2,2023-01-01 00:40:00,blood sampling,0.32458597
+569611336,crp capillaire resultat107mg,2023-01-01 00:50:00,blood sampling,0.52535653
+569611336,bandelette urinaire bu,2023-01-01 02:10:00,catherization,0.35579583
+569611336,prélèvement veineux,2023-01-01 02:11:00,fecal,0.45152718
+569611072,prise de la température,2023-01-01 21:12:00,fecal,0.3458107
+569611072,mesure ponctuelle spo2,2023-01-01 21:12:00,blood sampling,0.32458597
+569611072,résultats des tdr,2023-01-01 21:13:00,fecal,0.35106504
+569611072,dispensation de médicament po,2023-01-01 21:13:00,fecal,0.33820152
+569611343,dispensation de médicament po,2023-01-01 00:10:00,fecal,0.33820152
+569611343,traitement par voie inhalée,2023-01-01 00:10:00,inhalation,0.4391762
+569611078,prise en charge en contexte traumatique yyyy011,2023-01-01 20:26:00,fecal,0.38728267
+569611078,inhalation de meopa pour soins médicaux,2023-01-01 20:26:00,inhalation,0.6380447
+569611346,aspiration rhinopharyngé,2022-12-31 23:51:00,cleaning,0.48942143
+569611346,prise de la température,2022-12-31 23:51:00,fecal,0.3458107
+569611346,surveillance scope  spo2  2 heures,2022-12-31 23:56:00,tdr,0.25760394
+569611346,réalisation dun aérosol,2023-01-01 00:06:00,inhalation,0.56477773
+569611346,résultats des tdr,2023-01-01 00:10:00,fecal,0.35106504
+569611346,pose sng,2023-01-01 01:20:00,tdr,0.26699257
+569611346,désobstruction rhinopharyngée drp,2023-01-01 01:20:00,cleaning,0.5392064
+569611346,prélèvement veineux,2023-01-01 02:41:00,fecal,0.45152718
+569611347,désinfection plaie,2022-12-31 23:53:00,cleaning,0.50680727
+569611347,pansement petit,2022-12-31 23:53:00,fecal,0.4079329
+569611347,dispensation de médicament po 31122022 235501012023 0237aide à la suture,2023-01-01 02:37:00,suture,0.3382566
+569611347,inhalation de meopa pour soins médicaux,2023-01-01 02:37:00,inhalation,0.6380447
+569611347,prise en charge en contexte traumatique yyyy011,2023-01-01 09:26:00,fecal,0.38728267
+569611347,suture dune plaie pulpo-unguéale avec ou sans réposition de longle,2023-01-01 09:26:00,fecal,0.3299098
+569611351,résultats des tdr,2023-01-01 00:02:00,fecal,0.35106504
+569611089,dispensation de médicament po,2023-01-01 19:24:00,fecal,0.33820152
+569611090,prise de la température,2023-01-01 19:34:00,fecal,0.3458107
+569611090,dispensation de médicament po,2023-01-01 19:34:00,fecal,0.33820152
+569611090,aspiration rhinopharyngé,2023-01-01 19:34:00,cleaning,0.48942143
+569611090,crp capillaire resultat50 mgl,2023-01-01 19:47:00,blood sampling,0.48265943
+569611092,bandelette urinaire bu,2023-01-01 19:10:00,catherization,0.35579583
+569611092,prélèvement veineux,2023-01-01 20:48:00,fecal,0.45152718
+569611092,pose de patch emla,2023-01-01 20:48:00,drug dispensation,0.2764427
+569611357,prélèvement urinaire,2022-12-31 23:23:00,catherization,0.5970769
+569611357,dispensation de médicament po,2022-12-31 23:24:00,fecal,0.33820152
+569611357,prise en charge en contexte traumatique yyyy011,2023-01-01 09:19:00,fecal,0.38728267
+569611095,pose de collecteur urinaire,2023-01-01 18:43:00,catherization,0.39918983
+569611095,prise de la température,2023-01-01 18:43:00,fecal,0.3458107
+569611095,crp capillaire resultat16,2023-01-01 19:06:00,blood sampling,0.49940893
+569611095,streptotest résultatneg,2023-01-01 19:06:00,tdr,0.29240382
+569611095,bandelette urinaire bu,2023-01-01 19:21:00,catherization,0.35579583
+569611097,prise de la température,2023-01-01 18:29:00,fecal,0.3458107
+569611097,désinfection plaie,2023-01-01 18:29:00,cleaning,0.50680727
+569611097,inhalation de meopa pour soins médicaux,2023-01-01 18:29:00,inhalation,0.6380447
+569611097,aide à la suture,2023-01-01 18:35:00,suture,0.4944915
+569611097,prise en charge en contexte traumatique yyyy011,2023-01-01 18:55:00,fecal,0.38728267
+569611097,suture de plaie profonde du cuir chevelu  3cm,2023-01-01 18:55:00,fecal,0.35036653
+569611103,prise de la température,2023-01-01 18:10:00,fecal,0.3458107
+569611103,ecg,2023-01-01 18:10:00,blood sampling,0.4262479
+569611103,mesure ponctuelle spo2,2023-01-01 18:10:00,blood sampling,0.32458597
+569611103,glycémie capillaire,2023-01-01 18:10:00,blood sampling,0.4152123
+569611103,résultats des tdr,2023-01-01 19:45:00,fecal,0.35106504
+569611103,bandelette urinaire bu,2023-01-01 20:26:00,catherization,0.35579583
+569611103,education parentale,2023-01-01 20:48:00,secration,0.38024545
+569611104,prise en charge en contexte traumatique yyyy011,2023-01-01 18:53:00,fecal,0.38728267
+569611111,aide à la suture,2023-01-01 18:05:00,suture,0.4944915
+569611111,pansement petit,2023-01-01 18:06:00,fecal,0.4079329
+569611114,prise de la température,2023-01-01 17:21:00,fecal,0.3458107
+569611114,ecg,2023-01-01 17:21:00,blood sampling,0.4262479
+569611114,mesure ponctuelle spo2,2023-01-01 17:21:00,blood sampling,0.32458597
+569611114,glycémie capillaire,2023-01-01 17:21:00,blood sampling,0.4152123
+569611114,aspiration rhinopharyngé,2023-01-01 17:40:00,cleaning,0.48942143
+569611114,pose de vvp,2023-01-01 17:40:00,drug dispensation,0.3250607
+569611114,prélèvement veineux,2023-01-01 17:40:00,fecal,0.45152718
+569611114,perfusion  1 heure,2023-01-01 18:23:00,drug dispensation,0.53510463
+569611114,résultats des tdr,2023-01-01 19:45:00,fecal,0.35106504
+569611115,prise en charge en contexte traumatique yyyy011,2023-01-01 17:35:00,fecal,0.38728267
+569611115,résine cruro-pédieuse avec fracture sans réduction,2023-01-01 17:35:00,plaster,0.7043687
+569611062,dispensation de médicament po,2023-01-01 20:53:00,fecal,0.33820152
+569611062,prise en charge en contexte traumatique yyyy011,2023-01-01 21:37:00,fecal,0.38728267
+569611127,streptotest résultatnegatif,2023-01-01 17:32:00,tdr,0.33624768
+569611127,résultats des tdr,2023-01-01 17:32:00,fecal,0.35106504
+569611127,crp capillaire resultat110mgl,2023-01-01 17:34:00,blood sampling,0.4875649
+569611127,bandelette urinaire bu,2023-01-01 18:30:00,catherization,0.35579583
+569611129,prise de la température,2023-01-01 16:27:00,fecal,0.3458107
+569611129,mesure ponctuelle spo2,2023-01-01 16:27:00,blood sampling,0.32458597
+569611129,streptotest prescription,2023-01-01 16:46:00,tdr,0.36010194
+569611129,streptotest résultatpositif,2023-01-01 16:53:00,tdr,0.27464187
+569611032,prise de la température,2023-01-02 00:00:00,fecal,0.3458107
+569611032,mesure ponctuelle spo2,2023-01-02 00:00:00,blood sampling,0.32458597
+569611147,crp capillaire resultat32,2023-01-01 16:35:00,blood sampling,0.4294592
+569611147,traitement par voie inhalée 01012023 163701012023 1715aspiration rhinopharyngé,2023-01-01 16:52:00,inhalation,0.47413933
+569611147,prise de la température,2023-01-01 16:52:00,fecal,0.3458107
+569611147,préparation des biberons,2023-01-01 17:15:00,fecal,0.30873775
+569611148,désinfection plaie,2023-01-01 15:35:00,cleaning,0.50680727
+569611148,pose xylocaine,2023-01-01 15:35:00,drug dispensation,0.37196094
+569611148,prise en charge en contexte traumatique yyyy011,2023-01-01 16:21:00,fecal,0.38728267
+569611148,inhalation de meopa pour soins médicaux,2023-01-01 16:22:00,inhalation,0.6380447
+569611148,aide à la suture,2023-01-01 16:22:00,suture,0.4944915
+569611148,suture de plaie superficielle de la peau du visage  3 cm,2023-01-01 16:22:00,reduction,0.38681817
+569611156,prise en charge en contexte traumatique yyyy011,2023-01-01 16:14:00,fecal,0.38728267
+569611156,bab plâtré en attelle sans fracture,2023-01-01 16:15:00,plaster,0.5332595
+569611157,désinfection plaie,2023-01-01 15:10:00,cleaning,0.50680727
+569611157,syndactylie souple,2023-01-01 16:00:00,surgery,0.40401864
+569611163,test à la fluorescéine,2023-01-01 15:47:00,urine,0.34107682
+569611167,lavement évacuateur,2023-01-01 15:12:00,cleaning,0.2647257
+569611430,bandelette urinaire bu,2022-12-31 17:55:00,catherization,0.35579583
+569611430,dispensation de médicament po,2022-12-31 18:53:00,fecal,0.33820152
+569611430,prélèvement veineux,2022-12-31 18:54:00,fecal,0.45152718
+569611187,injection iv unique,2023-01-01 14:30:00,drug dispensation,0.50159293
+569611187,ablation de vvp,2023-01-01 14:54:00,drug dispensation,0.60084796
+569611189,prise de la température,2023-01-01 14:18:00,fecal,0.3458107
+569611174,prise de la température,2023-01-01 14:51:00,fecal,0.3458107
+569611174,réhydratation po au sro,2023-01-01 15:09:00,drug dispensation,0.4339658
+569611174,pose de vvp,2023-01-01 16:06:00,drug dispensation,0.3250607
+569611174,prélèvement veineux,2023-01-01 16:06:00,fecal,0.45152718
+569611174,pose sng,2023-01-01 16:32:00,tdr,0.26699257
+569611174,aspiration rhinopharyngé,2023-01-01 16:58:00,cleaning,0.48942143
+569611196,surveillance neurologique  24 heures,2023-01-01 14:06:00,tdr,0.26128983
+569611197,prise en charge en contexte traumatique yyyy011,2023-01-01 14:58:00,fecal,0.38728267
+569611215,résultats des tdr,2023-01-01 13:50:00,fecal,0.35106504
+569611215,aspiration rhinopharyngé,2023-01-01 13:50:00,cleaning,0.48942143
+569611215,prise de la température,2023-01-01 13:50:00,fecal,0.3458107
+569611217,prise en charge en contexte traumatique yyyy011,2023-01-01 13:46:00,fecal,0.38728267
+569611220,pansement initial de brlure sur 1 à 10 hors tête et mains,2023-01-01 12:40:00,fecal,0.4673664
+569611220,prise en charge en contexte traumatique yyyy011,2023-01-01 13:15:00,fecal,0.38728267
+569611223,prise en charge en contexte traumatique yyyy011,2023-01-01 12:53:00,fecal,0.38728267
+569611225,soins oculaires infirmiers,2023-01-01 13:41:00,tdr,0.23552985
+569611229,crp capillaire resultat88mgl,2023-01-01 12:55:00,blood sampling,0.51544964
+569611491,prise de la température 31122022 144731122022 203431122022 213531122022 230601012023 000701012023 025701012023 0542mesure ponctuelle spo2,2022-12-31 14:47:00,reduction,0.27193975
+569611491,glycémie capillaire,2022-12-31 14:47:00,blood sampling,0.4152123
+569611491,injection dun médicament intrarectal 31122022 152731122022 2306pose de vvp,2022-12-31 16:02:00,drug dispensation,0.66280746
+569611491,prélèvement veineux 31122022 160231122022 1611réhydratation po au sro,2022-12-31 16:40:00,drug dispensation,0.4456284
+569611491,dispensation de médicament po,2022-12-31 16:40:00,fecal,0.33820152
+569611491,pose de collecteur urinaire,2022-12-31 17:44:00,catherization,0.39918983
+569611491,sondage urinaire fille,2022-12-31 18:56:00,catherization,0.52672154
+569611491,bandelette urinaire bu,2022-12-31 18:57:00,catherization,0.35579583
+569611491,aspiration rhinopharyngé 31122022 195501012023 0257diagnostic rapide de grippe,2022-12-31 19:55:00,cleaning,0.42209214
+569611491,résultats des tdr 31122022 202131122022 2033résultat test de grippea positif,2022-12-31 20:33:00,tdr,0.2976094
+569611491,traitement par voie inhalée 31122022 203431122022 233201012023 000601012023 004301012023 0354préparation des repas,2022-12-31 20:34:00,inhalation,0.3298403
+569611491,désobstruction rhinopharyngée drp,2023-01-01 03:54:00,cleaning,0.5392064
+569611231,crp capillaire resultat16,2023-01-01 12:03:00,blood sampling,0.49940893
+569611231,bandelette urinaire bu,2023-01-01 12:29:00,catherization,0.35579583
+569611234,pansement petit,2023-01-01 12:03:00,fecal,0.4079329
+569611239,prise de la température,2023-01-01 11:44:00,fecal,0.3458107
+569611239,mesure ponctuelle spo2,2023-01-01 11:44:00,blood sampling,0.32458597
+569611239,streptotest prescription,2023-01-01 11:56:00,tdr,0.36010194
+569611239,streptotest résultatnegatif,2023-01-01 11:56:00,tdr,0.33624768
+569611239,prélèvement veineux,2023-01-01 13:05:00,fecal,0.45152718
+569611239,préparation des repas,2023-01-01 13:37:00,reduction,0.37526906
+569611239,résultats des tdr,2023-01-01 15:53:00,fecal,0.35106504
+569611242,résultats des tdr,2023-01-01 13:34:00,fecal,0.35106504
+569611244,surveillance neurologique  24 heures,2023-01-01 11:16:00,tdr,0.26128983
+569611244,pose de patch emla,2023-01-01 11:16:00,drug dispensation,0.2764427
+569611244,prélèvement veineux,2023-01-01 11:40:00,fecal,0.45152718
+569611246,crp capillaire resultatinf a 1,2023-01-01 11:24:00,blood sampling,0.5082667
